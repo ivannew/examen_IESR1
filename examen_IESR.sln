@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "examen_IESR", "examen_IESR.csproj", "{51C985A6-2284-481E-876F-344CE220E5F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51C985A6-2284-481E-876F-344CE220E5F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C985A6-2284-481E-876F-344CE220E5F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C985A6-2284-481E-876F-344CE220E5F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C985A6-2284-481E-876F-344CE220E5F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C52AC7CB-EE9D-40E8-A880-4DB2280CC980}
+	EndGlobalSection
+EndGlobal
